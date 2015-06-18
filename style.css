@@ -33,3 +33,43 @@
 	font-size: 30px;
 	font-family: sans-serif;
 }
+
+.bg2{
+	background: url("r2.jpg") fixed;
+	background-size: cover;
+	height: 990px;
+	margin-top: 50px;
+}
+
+.project-box{
+	margin-top:70px;
+	background-color: black;
+}
+
+.project-box h2{
+	color: white;
+	font-weight: bold;
+}
+
+.project-box h5{
+	font-family: fantasy;
+	font-size: 25px;
+	font-weight: 200;
+	color: goldenrod;
+}
+
+.project-box h3{
+	font-family: inherit;
+	font-size: 25px;
+	font-weight: 800;
+	color: crimson;
+}
+
+.project-box p{
+	color: burlywood;
+  	font-family: cursive;
+}
+
+hr{
+	width: 65px;
+}
