@@ -1,0 +1,21 @@
+.bg1{
+	background: url("r1.jpg") fixed;
+	background-size: cover;
+	height: 667px;
+	margin-top: 50px;
+}
+
+.intro-box{
+	padding-top:150px;
+}
+
+.intro-box h2{
+	color: white;
+	font-weight: bold;
+}
+
+.intro-box p{
+	font-family: fantasy;
+	font-size: large;
+	color: goldenrod;
+}
