@@ -19,3 +19,17 @@
 	font-size: large;
 	color: goldenrod;
 }
+
+.icon{
+	font-size: 35px;
+	color: darkgray;
+}
+
+#aboutme{
+	padding-top: 25px;
+}
+
+#aboutme h3{
+	font-size: 30px;
+	font-family: sans-serif;
+}
